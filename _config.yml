@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/ghaith-dkmak/"> 
-  <img src="images/linkedin.jpg?raw=true"/>
+  <img src="images/linkedin.png?raw=true"/>
   </a> 
   
 theme: jekyll-theme-minimal
