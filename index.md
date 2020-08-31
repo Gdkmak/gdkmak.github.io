@@ -2,28 +2,37 @@
 
 ---
 
-### Category Name 1 
+### NLP
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Turkish Sentiment Analysis](https://github.com/Gdkmak/Turkish-Sentiment-Analysis/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Analytics 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Stock_Market_Analysis_For_Google_and_Apple](https://github.com/Gdkmak/analytics/blob/master/Stock_Market_Analysis_For_Google_and_Apple.ipynb/)
+  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+- [Hypothesis_Testing_And_Predictive_Analysis](https://github.com/Gdkmak/analytics/blob/master/Hypothesis_Testing_And_Predictive_Analysis.ipynb/)
+  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+- [EDA_Data_Science_Jobs](https://github.com/Gdkmak/analytics/blob/master/EDA_Data_Science_Jobs.ipynb/)
+  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+  
+---
+
+
 
 ---
+
+### Time Serise
+
+---
+
+### Computer Vision
+
+---
+
 
