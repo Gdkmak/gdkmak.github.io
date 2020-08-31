@@ -1,11 +1,16 @@
 title: Ghaith Dkmak # your name (or website title) here
-logo: "/images/profile_photo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A chronic learner data scientist with 5 years of experience in multiple domains and industries. 
+  I got practical expertise applying a wide range of inferential and predictive models and implementing 
+  data preprocessing and data mining to solve real-world problems. 
+  NLP is my main focus right now, building models for sentiment analysis using the state-of-the-art technique i.e. BERT. 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ghaith-dkmak/"> 
+  <img src="images/linkedin.jpg?raw=true"/>
+  </a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
