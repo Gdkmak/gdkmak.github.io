@@ -15,7 +15,9 @@
   <img src="#?raw=true"/>
 
 - [Hypothesis_Testing_And_Predictive_Analysis](https://github.com/Gdkmak/analytics/blob/master/Hypothesis_Testing_And_Predictive_Analysis.ipynb/)
-  <img src="#?raw=true"/>
+
+
+  <img src=""images/market_A.png"/>
 
 - [EDA_Data_Science_Jobs](https://github.com/Gdkmak/analytics/blob/master/EDA_Data_Science_Jobs.ipynb/)
 
