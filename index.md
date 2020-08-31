@@ -5,7 +5,11 @@
 ### NLP
 
 [Turkish Sentiment Analysis](https://github.com/Gdkmak/Turkish-Sentiment-Analysis/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+
+[Chatbot](https://github.com/Gdkmak/BERT-chatbot)
+
 
 ---
 
@@ -30,9 +34,15 @@
 
 ### Time Serise
 
+[Cryprocurruncy and Social Media](https://github.com/Gdkmak/CryptoCurrenciesSocialMedia)
+
+
+
 ---
 
 ### Computer Vision
+
+[Human_activity_correctness](https://github.com/Gdkmak/Human_activity_correctness)
 
 ---
 
