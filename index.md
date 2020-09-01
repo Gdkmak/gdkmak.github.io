@@ -1,8 +1,8 @@
-# Portfolio
+# Portfolio:
 
 ---
 
-## NLP
+## NLP:
 
 ***Turkish Sentiment Analysis***
 [GitHub](https://github.com/Gdkmak/Turkish-Sentiment-Analysis/)
@@ -28,21 +28,24 @@ Lorenzo is a chatbot built using the awesomeness of Transformers library and Mic
 
 ---
 
-## Analytics 
+## Analytics: 
 
-- [Stock_Market_Analysis_For_Google_and_Apple](https://github.com/Gdkmak/analytics/blob/master/Stock_Market_Analysis_For_Google_and_Apple.ipynb/)
-  
+- ***Stock Market Analysis For Google and Apple***
+[GitHub](https://github.com/Gdkmak/analytics/blob/master/Stock_Market_Analysis_For_Google_and_Apple.ipynb/)
+
   
   <img src="images/market_A.png"/>
 
   
-- [EDA_Data_Science_Jobs](https://github.com/Gdkmak/analytics/blob/master/EDA_Data_Science_Jobs.ipynb/)
+- ***EDA Data Science Jobs***
+[Google Colab](https://github.com/Gdkmak/analytics/blob/master/EDA_Data_Science_Jobs.ipynb/)
   
   
   <img src="images/EDA_A.png?raw=true"/>
   
   
-- [Hypothesis_Testing_And_Predictive_Analysis](https://github.com/Gdkmak/analytics/blob/master/Hypothesis_Testing_And_Predictive_Analysis.ipynb/)
+- ***Hypothesis Testing And Predictive Analysis***
+[GitHub](https://github.com/Gdkmak/analytics/blob/master/Hypothesis_Testing_And_Predictive_Analysis.ipynb/)
 
 
 ---
