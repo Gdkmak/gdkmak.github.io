@@ -55,7 +55,7 @@ The data is taken from lacity.org website. It has payroll information for all Lo
 
 ## Computer Vision
 
-***Human_activity_correctness***
+***Human_activity_correctness*** (Dissertation)
 [GitHub](https://github.com/Gdkmak/Human_activity_correctness)
 
 Evaluating Pre-processing Methods with Deep Learning Algorithms on Human Activity Skelton Data Obtained from Kinect and Vicon Sensors. The aim, here, is to investigate how to yield optimal results in this field by trying various different approaches at every stage of skeleton data processing; as a consequence of this work, HAR might take a significant step forward. This reposotry tries to tackle the issue of variable sized inputs using dataset called [UI-PRMD](https://webpages.uidaho.edu/ui-prmd/).
