@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### NLP
+## NLP
 
 Turkish Sentiment Analysis
 [GitHub](https://github.com/Gdkmak/Turkish-Sentiment-Analysis/)
@@ -26,9 +26,10 @@ ChatBot Lorenzo
 Lorenzo is a chatbot built using the awsomeness of Transformers library and Microsoft’s Large-scale Pretrained Response Generation Model (DialoGPT). Try to talk to Lorenzo he is still learning.
 
 <img src="images/lorenzo.png"/>
+
 ---
 
-### Analytics 
+## Analytics 
 
 - [Stock_Market_Analysis_For_Google_and_Apple](https://github.com/Gdkmak/analytics/blob/master/Stock_Market_Analysis_For_Google_and_Apple.ipynb/)
   
@@ -47,7 +48,7 @@ Lorenzo is a chatbot built using the awsomeness of Transformers library and Micr
 
 ---
 
-### Time Serise
+## Time Serise
 
 [Cryprocurruncy and Social Media](https://github.com/Gdkmak/CryptoCurrenciesSocialMedia)
 
@@ -55,7 +56,7 @@ Lorenzo is a chatbot built using the awsomeness of Transformers library and Micr
 
 ---
 
-### Computer Vision
+## Computer Vision
 
 [Human_activity_correctness](https://github.com/Gdkmak/Human_activity_correctness)
 
