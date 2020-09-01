@@ -59,11 +59,11 @@ The data is taken from lacity.org website. It has payroll information for all Lo
 [GitHub](https://github.com/Gdkmak/Human_activity_correctness)
 
 
-# Evaluating Pre-processing Methods with Deep Learning Algorithms on Human Activity Skelton Data Obtained from Kinect and Vicon Sensors
+### Evaluating Pre-processing Methods with Deep Learning Algorithms on Human Activity Skelton Data Obtained from Kinect and Vicon Sensors
 
 ##### The aim, here, is to investigate how to yield optimal results in this field by trying various different approaches at every stage of skeleton data processing; as a consequence of this work, HAR might take a significant step forward. This reposotry tries to tackle the issue of variable sized inputs. 
 
-### Dataset Used
+#### Dataset Used
 
 ##### In order to achieve this aim, I will be using an open access dataset called [UI-PRMD](https://webpages.uidaho.edu/ui-prmd/). This data was collected by Idaho University using a Vicon optical tracker, and a Kinect camera. The data provides the angles and positions of body joints in relation to patients (subjects) who were undergoing physical therapy and rehabilitation programs which required the undertaking of common exercises such as deep squats, standing shoulder abduction etc.
 
@@ -74,14 +74,14 @@ This possible approach is to draw new frame(s) between two existing frames by us
 
 This suggests to locate and draw new joints coordinates on the trajectory if only the difference between two consecutive frames exceeds a certain threshold. The difference will be called gap. The gap is the absolute difference between the summation of all x coordinates in two consecutive frames. i is the number of frame in the gesture and j is the number of coordinates in the same gesture. Please refer to the notation below. 
 
-![alt text](https://github.com/Gdkmak/Human_activity_correctness/blob/master/Annotation%202019-12-23%20152534.png "equation")
+![alt text](images/Annotation.png "equation")
 
 
 The average of gaps in each gesture will be taken. The same process will be repeated for all gestures from the same classification in the same movement. This process will result in a scalar. For example, if I have 100 incorrect gestures and 100 correct gestures in movement number 5. After calculating the average of gaps in each gesture, we will end up with a scalar of 100 elements for incorrect gestures and another scalar with 100 elements for correct gesture. The average of each scalar is the threshold of each classification in the movement number 5.  
 
 Now we calculated the gap and the threshold, what are they useful for? Now we go again to the gesture and check if a gap exceeds a threshold, then joints coordinates values will be polynomially interpolated to draw a new frame(s) on a trajectory between two frames.
 
-![alt text](https://github.com/Gdkmak/Human_activity_correctness/blob/master/skeleton.png "skeleton")
+![alt text](images/skeleton.png "skeleton")
 
 This figure shows two consecutive frames in elbow flexion gesture. The gap between the frames in the right arm space is relatively big and exceeded the threshold. Therefore, we filled this gap with a body coordinates and hence a frame. 
 
