@@ -74,14 +74,14 @@ This possible approach is to draw new frame(s) between two existing frames by us
 
 This suggests to locate and draw new joints coordinates on the trajectory if only the difference between two consecutive frames exceeds a certain threshold. The difference will be called gap. The gap is the absolute difference between the summation of all x coordinates in two consecutive frames. i is the number of frame in the gesture and j is the number of coordinates in the same gesture. Please refer to the notation below. 
 
-![alt text](images/Annotation.png "equation")
+![alt text](images/Annotation.png)
 
 
 The average of gaps in each gesture will be taken. The same process will be repeated for all gestures from the same classification in the same movement. This process will result in a scalar. For example, if I have 100 incorrect gestures and 100 correct gestures in movement number 5. After calculating the average of gaps in each gesture, we will end up with a scalar of 100 elements for incorrect gestures and another scalar with 100 elements for correct gesture. The average of each scalar is the threshold of each classification in the movement number 5.  
 
 Now we calculated the gap and the threshold, what are they useful for? Now we go again to the gesture and check if a gap exceeds a threshold, then joints coordinates values will be polynomially interpolated to draw a new frame(s) on a trajectory between two frames.
 
-![alt text](images/skeleton.png "skeleton")
+![alt text](images/skeleton.png)
 
 This figure shows two consecutive frames in elbow flexion gesture. The gap between the frames in the right arm space is relatively big and exceeded the threshold. Therefore, we filled this gap with a body coordinates and hence a frame. 
 
