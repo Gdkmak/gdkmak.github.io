@@ -20,7 +20,7 @@ Technologies used: TensorFlow, Keras, sklearn, Transformer, Torch, Flask
 
 ***ChatBot Lorenzo*** 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/257/robot_1f916.png" width="15" height="15">
-[GitHub](https://github.com/Gdkmak/BERT-chatbot)
+[<ins>GitHub<ins/>](https://github.com/Gdkmak/BERT-chatbot)
 
 Lorenzo is a chatbot built using the awesomeness of Transformers library and Microsoft’s Large-scale Pretrained Response Generation Model (DialoGPT). Try to talk to Lorenzo he is still learning.
 
@@ -31,7 +31,7 @@ Lorenzo is a chatbot built using the awesomeness of Transformers library and Mic
 ## Analytics: 
 
 - ***Stock Market Analysis For Apple, Google, Microsoft and Amazon***
-[GitHub](https://github.com/Gdkmak/analytics/blob/master/Stock_Market_Analysis_For_Google_and_Apple.ipynb/)
+[<ins>GitHub<ins/>](https://github.com/Gdkmak/analytics/blob/master/Stock_Market_Analysis_For_Google_and_Apple.ipynb/)
 
 Stock market for the big four technology stocks, Apple, Microsoft, Amazon, and Google. Main goal here to visualise and take a deep look at different way to analyse the risk of stocks considering their history changes.
   
@@ -39,14 +39,14 @@ Stock market for the big four technology stocks, Apple, Microsoft, Amazon, and G
 
   
 - ***EDA Data Science Jobs***
-[Google Colab](https://colab.research.google.com/github/Gdkmak/analytics/blob/master/EDA_Data_Science_Jobs.ipynb)
+[<ins>Google Colab<ins/>](https://colab.research.google.com/github/Gdkmak/analytics/blob/master/EDA_Data_Science_Jobs.ipynb)
   
 In this anlysis explore Data Science Jobs during pandamic, and try to explore some hidden detailes in mutiple industries and for different job describtions. The dataset was created by picklesueat and contains more than 3900 job listing for data scientist positions scraped from glassdoor and other sites.
 
   <img src="images/EDA_A.png?raw=true"/>
   
 - ***Hypothesis Testing And Predictive Analysis***
-[GitHub](https://github.com/Gdkmak/analytics/blob/master/Hypothesis_Testing_And_Predictive_Analysis.ipynb/)
+[<ins>GitHub<ins/>](https://github.com/Gdkmak/analytics/blob/master/Hypothesis_Testing_And_Predictive_Analysis.ipynb/)
 
 The data is taken from lacity.org website. It has payroll information for all Los Angeles City Employees including the City's three proprietary departments: Water and Power, Airports and Harbor. Two types of hypothesis testing is applied to check if there is a difference in the payroll between two years 2015 and 2016. In addition, predictive analysis is implemented using Random Forest and Linear Regression. 
 
@@ -55,7 +55,7 @@ The data is taken from lacity.org website. It has payroll information for all Lo
 ## Time Serise
 
 ***Cryprocurruncy and Social Media***
-[GitHub](https://github.com/Gdkmak/CryptoCurrenciesSocialMedia)
+[<ins>GitHub<ins/>](https://github.com/Gdkmak/CryptoCurrenciesSocialMedia)
 
 
 
@@ -64,7 +64,7 @@ The data is taken from lacity.org website. It has payroll information for all Lo
 ## Computer Vision
 
 ***Human_activity_correctness***
-[GitHub](https://github.com/Gdkmak/Human_activity_correctness)
+[<ins>GitHub<ins/>](https://github.com/Gdkmak/Human_activity_correctness)
 
 
 
