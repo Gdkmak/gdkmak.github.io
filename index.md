@@ -24,7 +24,7 @@ Technologies used: TensorFlow, Keras, sklearn, Transformer, Torch, Flask
 
 Lorenzo is a chatbot built using the awesomeness of Transformers library and Microsoft’s Large-scale Pretrained Response Generation Model (DialoGPT). Try to talk to Lorenzo he is still learning.
 
-<img src="images/lorenzo_A.png"/>
+<img src="images/Lorenzo_A.png"/>
 
 ---
 
