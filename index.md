@@ -24,8 +24,8 @@ ChatBot Lorenzo
 [GitHub](https://github.com/Gdkmak/BERT-chatbot)
 
 Lorenzo is a chatbot built using the awsomeness of Transformers library and Microsoft’s Large-scale Pretrained Response Generation Model (DialoGPT). Try to talk to Lorenzo he is still learning.
-<img src="images/lorenzo.png"/>
 
+<img src="images/lorenzo.png"/>
 ---
 
 ### Analytics 
