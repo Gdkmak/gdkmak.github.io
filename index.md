@@ -17,7 +17,7 @@ Yes|82%|82%|83%|88%
 ---
 
 ChatBot Lorenzo 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/257/robot_1f916.png" width="15" height="15">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/257/robot_1f916.png" width="30" height="30">
 
 [GitHub](https://github.com/Gdkmak/BERT-chatbot)
 
