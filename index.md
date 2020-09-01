@@ -43,7 +43,7 @@ Stock market for the big four technology stocks, Apple, Microsoft, Amazon, and G
   
 In this anlysis explore Data Science Jobs during pandamic, and try to explore some hidden detailes in mutiple industries and for different job describtions. The dataset was created by picklesueat and contains more than 3900 job listing for data scientist positions scraped from glassdoor and other sites.
 
-<img src="images/EDA_A.png?raw=true"/>
+[EDA Combined](images/EDA_A.png)
   
 ***Hypothesis Testing And Predictive Analysis***
 [GitHub](https://github.com/Gdkmak/analytics/blob/master/Hypothesis_Testing_And_Predictive_Analysis.ipynb/)
@@ -56,6 +56,16 @@ The data is taken from lacity.org website. It has payroll information for all Lo
 
 ***Cryprocurruncy and Social Media***
 [GitHub](https://github.com/Gdkmak/CryptoCurrenciesSocialMedia)
+
+# CryptoCurrenciesSocialMedia
+Project goal is to analyse influences of social media, in particular Tweeter, on Bitcoin rate, in the current time period (Q1 2019). Therefore, we will apply different machine learning methods and algorithms to identify common trends and make forecasts as accurate as possible.
+![Image of Tweet](images/#.png)
+
+## Approach
+Our approach is to perform sentiment analysis on Tweets to classify them into positive/neutral/negative types.
+Then correlate this to the bitcoin prices. Finally a prediction can be made using the resulting model.
+
+
 
 
 
