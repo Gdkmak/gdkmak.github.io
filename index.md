@@ -5,7 +5,7 @@
 ### NLP
 
 Turkish Sentiment Analysis
-[Github](https://github.com/Gdkmak/Turkish-Sentiment-Analysis/)
+[GitHub](https://github.com/Gdkmak/Turkish-Sentiment-Analysis/)
 
 This project shows a comparison between three different approaches to train and test sentiment classification model to identify people’s opinions in Turkish language and label them as positive or negative, based on the emotions people’s express within them. Two Machine Learning techniques are namely Logistic Regression and Naive Bayes. Then Neural Networks using Embedding and 1D convolutional layers. Finally, the state-of-the-art pretrained BERT model is used to yield the best results. the following figures are yield from testing the models.
 
@@ -16,8 +16,10 @@ Yes|82%|82%|83%|88%
 
 ---
 
+ChatBot Lorenzo 
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/joypixels/257/robot_1f916.png">
 
-[Chatbot](https://github.com/Gdkmak/BERT-chatbot)
+[GitHub](https://github.com/Gdkmak/BERT-chatbot)
 
 
 ---
