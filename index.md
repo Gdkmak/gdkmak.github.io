@@ -43,7 +43,7 @@ Stock market for the big four technology stocks, Apple, Microsoft, Amazon, and G
   
 In this anlysis explore Data Science Jobs during pandamic, and try to explore some hidden detailes in mutiple industries and for different job describtions. The dataset was created by picklesueat and contains more than 3900 job listing for data scientist positions scraped from glassdoor and other sites.
 
-[EDA Combined](images/EDA_A.png)
+![EDA Combined](images/EDA_A.png)
   
 ***Hypothesis Testing And Predictive Analysis***
 [GitHub](https://github.com/Gdkmak/analytics/blob/master/Hypothesis_Testing_And_Predictive_Analysis.ipynb/)
