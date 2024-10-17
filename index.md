@@ -67,9 +67,9 @@ This figure shows two consecutive frames in elbow flexion gesture. The gap betwe
 
 ---
 
-## Time Serise
+## Time Series
 
-***Cryprocurruncy and Social Media*** (University project)
+***Cryptocurrency and Social Media*** (University project)
 [GitHub](https://github.com/Gdkmak/CryptoCurrenciesSocialMedia)
 
 The project aim is to analyse influences of social media, in particular Twitter, on Bitcoin rate, in the current time period (Q1 2019). Therefore, we will apply different machine learning methods and algorithms to identify common trends and make forecasts as accurate as possible.
